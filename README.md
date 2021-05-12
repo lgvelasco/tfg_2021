@@ -1,5 +1,8 @@
 # tfg_2021
-All data and code related to TFG "The Emotions Behind the Stock Market"
+All data and code related to the devlopement of The Emotions Behind the Stock Market
+**By: Luis Guillermo Velasco**
+
+Hopefully this can bue used as a guideline to for future projects in the field of NLP financial sentiment recognition.
 
 ## Scraping
 * Contains Python code used to to scarpe tweets from Twitter and posts from Reddit (r/wallstreetbets)
