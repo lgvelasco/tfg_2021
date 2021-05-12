@@ -2,6 +2,10 @@
 All data and code related to TFG "The Emotions Behind the Stock Market"
 
 ## Scraping
+* Contains code used to to scarpe tweets from Twitter and posts from Reddit (r/wallstreetbets)
+#### Major libraries used
+* twint (https://github.com/twintproject/twint)
+* psaw (https://pypi.org/project/psaw/)
 
 ## BERT_sentiment.ipynb
 * Method used to fine-tune BERT model in order to classify bearish and bullish tweets
